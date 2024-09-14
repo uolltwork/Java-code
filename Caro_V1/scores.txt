@@ -1,0 +1,5 @@
+CSD:10
+Alice:9
+Charlie:7
+Bob:5
+Player 1:1
