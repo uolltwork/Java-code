@@ -1,4 +1,2 @@
-Caro game :
-
--Player vs Player 
--Create by java
+# Caro game 
+- Create by java
